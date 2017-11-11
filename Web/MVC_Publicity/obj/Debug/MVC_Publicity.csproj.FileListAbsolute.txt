@@ -1,0 +1,106 @@
+c:\users\iris\documents\visual studio 2017\Projects\MVC_Publicity\MVC_Publicity\bin\roslyn\csc.exe
+c:\users\iris\documents\visual studio 2017\Projects\MVC_Publicity\MVC_Publicity\bin\roslyn\csc.exe.config
+c:\users\iris\documents\visual studio 2017\Projects\MVC_Publicity\MVC_Publicity\bin\roslyn\csc.rsp
+c:\users\iris\documents\visual studio 2017\Projects\MVC_Publicity\MVC_Publicity\bin\roslyn\csi.exe
+c:\users\iris\documents\visual studio 2017\Projects\MVC_Publicity\MVC_Publicity\bin\roslyn\csi.rsp
+c:\users\iris\documents\visual studio 2017\Projects\MVC_Publicity\MVC_Publicity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\iris\documents\visual studio 2017\Projects\MVC_Publicity\MVC_Publicity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\iris\documents\visual studio 2017\Projects\MVC_Publicity\MVC_Publicity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\iris\documents\visual studio 2017\Projects\MVC_Publicity\MVC_Publicity\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\iris\documents\visual studio 2017\Projects\MVC_Publicity\MVC_Publicity\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\iris\documents\visual studio 2017\Projects\MVC_Publicity\MVC_Publicity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\iris\documents\visual studio 2017\Projects\MVC_Publicity\MVC_Publicity\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\iris\documents\visual studio 2017\Projects\MVC_Publicity\MVC_Publicity\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\iris\documents\visual studio 2017\Projects\MVC_Publicity\MVC_Publicity\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\iris\documents\visual studio 2017\Projects\MVC_Publicity\MVC_Publicity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\iris\documents\visual studio 2017\Projects\MVC_Publicity\MVC_Publicity\bin\roslyn\System.AppContext.dll
+c:\users\iris\documents\visual studio 2017\Projects\MVC_Publicity\MVC_Publicity\bin\roslyn\System.Collections.Immutable.dll
+c:\users\iris\documents\visual studio 2017\Projects\MVC_Publicity\MVC_Publicity\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\iris\documents\visual studio 2017\Projects\MVC_Publicity\MVC_Publicity\bin\roslyn\System.IO.FileSystem.dll
+c:\users\iris\documents\visual studio 2017\Projects\MVC_Publicity\MVC_Publicity\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\iris\documents\visual studio 2017\Projects\MVC_Publicity\MVC_Publicity\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\iris\documents\visual studio 2017\Projects\MVC_Publicity\MVC_Publicity\bin\roslyn\vbc.exe
+c:\users\iris\documents\visual studio 2017\Projects\MVC_Publicity\MVC_Publicity\bin\roslyn\vbc.exe.config
+c:\users\iris\documents\visual studio 2017\Projects\MVC_Publicity\MVC_Publicity\bin\roslyn\vbc.rsp
+c:\users\iris\documents\visual studio 2017\Projects\MVC_Publicity\MVC_Publicity\bin\roslyn\VBCSCompiler.exe
+c:\users\iris\documents\visual studio 2017\Projects\MVC_Publicity\MVC_Publicity\bin\roslyn\VBCSCompiler.exe.config
+c:\users\iris\documents\visual studio 2017\Projects\MVC_Publicity\MVC_Publicity\bin\MVC_Publicity.dll.config
+c:\users\iris\documents\visual studio 2017\Projects\MVC_Publicity\MVC_Publicity\bin\MVC_Publicity.dll
+c:\users\iris\documents\visual studio 2017\Projects\MVC_Publicity\MVC_Publicity\bin\MVC_Publicity.pdb
+c:\users\iris\documents\visual studio 2017\Projects\MVC_Publicity\MVC_Publicity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\iris\documents\visual studio 2017\Projects\MVC_Publicity\MVC_Publicity\bin\Microsoft.Web.Infrastructure.dll
+c:\users\iris\documents\visual studio 2017\Projects\MVC_Publicity\MVC_Publicity\bin\System.Web.Helpers.dll
+c:\users\iris\documents\visual studio 2017\Projects\MVC_Publicity\MVC_Publicity\bin\System.Web.Mvc.dll
+c:\users\iris\documents\visual studio 2017\Projects\MVC_Publicity\MVC_Publicity\bin\System.Web.Razor.dll
+c:\users\iris\documents\visual studio 2017\Projects\MVC_Publicity\MVC_Publicity\bin\System.Web.Webpages.Deployment.dll
+c:\users\iris\documents\visual studio 2017\Projects\MVC_Publicity\MVC_Publicity\bin\System.Web.Webpages.dll
+c:\users\iris\documents\visual studio 2017\Projects\MVC_Publicity\MVC_Publicity\bin\System.Web.Webpages.Razor.dll
+c:\users\iris\documents\visual studio 2017\Projects\MVC_Publicity\MVC_Publicity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\iris\documents\visual studio 2017\Projects\MVC_Publicity\MVC_Publicity\bin\System.Web.Razor.xml
+c:\users\iris\documents\visual studio 2017\Projects\MVC_Publicity\MVC_Publicity\bin\System.Web.Webpages.xml
+c:\users\iris\documents\visual studio 2017\Projects\MVC_Publicity\MVC_Publicity\bin\System.Web.Webpages.Deployment.xml
+c:\users\iris\documents\visual studio 2017\Projects\MVC_Publicity\MVC_Publicity\bin\System.Web.Webpages.Razor.xml
+c:\users\iris\documents\visual studio 2017\Projects\MVC_Publicity\MVC_Publicity\bin\System.Web.Helpers.xml
+c:\users\iris\documents\visual studio 2017\Projects\MVC_Publicity\MVC_Publicity\bin\System.Web.Mvc.xml
+c:\users\iris\documents\visual studio 2017\Projects\MVC_Publicity\MVC_Publicity\bin\es\System.Web.Razor.resources.dll
+c:\users\iris\documents\visual studio 2017\Projects\MVC_Publicity\MVC_Publicity\bin\es\System.Web.Webpages.resources.dll
+c:\users\iris\documents\visual studio 2017\Projects\MVC_Publicity\MVC_Publicity\bin\es\System.Web.Webpages.Deployment.resources.dll
+c:\users\iris\documents\visual studio 2017\Projects\MVC_Publicity\MVC_Publicity\bin\es\System.Web.Webpages.Razor.resources.dll
+c:\users\iris\documents\visual studio 2017\Projects\MVC_Publicity\MVC_Publicity\bin\es\System.Web.Helpers.resources.dll
+c:\users\iris\documents\visual studio 2017\Projects\MVC_Publicity\MVC_Publicity\bin\es\System.Web.Mvc.resources.dll
+c:\users\iris\documents\visual studio 2017\Projects\MVC_Publicity\MVC_Publicity\obj\Debug\MVC_Publicity.csprojResolveAssemblyReference.cache
+c:\users\iris\documents\visual studio 2017\Projects\MVC_Publicity\MVC_Publicity\obj\Debug\MVC_Publicity.dll
+c:\users\iris\documents\visual studio 2017\Projects\MVC_Publicity\MVC_Publicity\obj\Debug\MVC_Publicity.pdb
+C:\Users\iris\Documents\Repositorio_InOrientadaProceso\Ing_OrProces_Code\Ing_Or_Proceso\Web\MVC_Publicity\bin\roslyn\csc.exe
+C:\Users\iris\Documents\Repositorio_InOrientadaProceso\Ing_OrProces_Code\Ing_Or_Proceso\Web\MVC_Publicity\bin\roslyn\csc.exe.config
+C:\Users\iris\Documents\Repositorio_InOrientadaProceso\Ing_OrProces_Code\Ing_Or_Proceso\Web\MVC_Publicity\bin\roslyn\csc.rsp
+C:\Users\iris\Documents\Repositorio_InOrientadaProceso\Ing_OrProces_Code\Ing_Or_Proceso\Web\MVC_Publicity\bin\roslyn\csi.exe
+C:\Users\iris\Documents\Repositorio_InOrientadaProceso\Ing_OrProces_Code\Ing_Or_Proceso\Web\MVC_Publicity\bin\roslyn\csi.rsp
+C:\Users\iris\Documents\Repositorio_InOrientadaProceso\Ing_OrProces_Code\Ing_Or_Proceso\Web\MVC_Publicity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\iris\Documents\Repositorio_InOrientadaProceso\Ing_OrProces_Code\Ing_Or_Proceso\Web\MVC_Publicity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\iris\Documents\Repositorio_InOrientadaProceso\Ing_OrProces_Code\Ing_Or_Proceso\Web\MVC_Publicity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\iris\Documents\Repositorio_InOrientadaProceso\Ing_OrProces_Code\Ing_Or_Proceso\Web\MVC_Publicity\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\iris\Documents\Repositorio_InOrientadaProceso\Ing_OrProces_Code\Ing_Or_Proceso\Web\MVC_Publicity\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\iris\Documents\Repositorio_InOrientadaProceso\Ing_OrProces_Code\Ing_Or_Proceso\Web\MVC_Publicity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\iris\Documents\Repositorio_InOrientadaProceso\Ing_OrProces_Code\Ing_Or_Proceso\Web\MVC_Publicity\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\iris\Documents\Repositorio_InOrientadaProceso\Ing_OrProces_Code\Ing_Or_Proceso\Web\MVC_Publicity\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\iris\Documents\Repositorio_InOrientadaProceso\Ing_OrProces_Code\Ing_Or_Proceso\Web\MVC_Publicity\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\iris\Documents\Repositorio_InOrientadaProceso\Ing_OrProces_Code\Ing_Or_Proceso\Web\MVC_Publicity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\iris\Documents\Repositorio_InOrientadaProceso\Ing_OrProces_Code\Ing_Or_Proceso\Web\MVC_Publicity\bin\roslyn\System.AppContext.dll
+C:\Users\iris\Documents\Repositorio_InOrientadaProceso\Ing_OrProces_Code\Ing_Or_Proceso\Web\MVC_Publicity\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\iris\Documents\Repositorio_InOrientadaProceso\Ing_OrProces_Code\Ing_Or_Proceso\Web\MVC_Publicity\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\iris\Documents\Repositorio_InOrientadaProceso\Ing_OrProces_Code\Ing_Or_Proceso\Web\MVC_Publicity\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\iris\Documents\Repositorio_InOrientadaProceso\Ing_OrProces_Code\Ing_Or_Proceso\Web\MVC_Publicity\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\iris\Documents\Repositorio_InOrientadaProceso\Ing_OrProces_Code\Ing_Or_Proceso\Web\MVC_Publicity\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\iris\Documents\Repositorio_InOrientadaProceso\Ing_OrProces_Code\Ing_Or_Proceso\Web\MVC_Publicity\bin\roslyn\vbc.exe
+C:\Users\iris\Documents\Repositorio_InOrientadaProceso\Ing_OrProces_Code\Ing_Or_Proceso\Web\MVC_Publicity\bin\roslyn\vbc.exe.config
+C:\Users\iris\Documents\Repositorio_InOrientadaProceso\Ing_OrProces_Code\Ing_Or_Proceso\Web\MVC_Publicity\bin\roslyn\vbc.rsp
+C:\Users\iris\Documents\Repositorio_InOrientadaProceso\Ing_OrProces_Code\Ing_Or_Proceso\Web\MVC_Publicity\bin\roslyn\VBCSCompiler.exe
+C:\Users\iris\Documents\Repositorio_InOrientadaProceso\Ing_OrProces_Code\Ing_Or_Proceso\Web\MVC_Publicity\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\iris\Documents\Repositorio_InOrientadaProceso\Ing_OrProces_Code\Ing_Or_Proceso\Web\MVC_Publicity\bin\MVC_Publicity.dll.config
+C:\Users\iris\Documents\Repositorio_InOrientadaProceso\Ing_OrProces_Code\Ing_Or_Proceso\Web\MVC_Publicity\bin\MVC_Publicity.dll
+C:\Users\iris\Documents\Repositorio_InOrientadaProceso\Ing_OrProces_Code\Ing_Or_Proceso\Web\MVC_Publicity\bin\MVC_Publicity.pdb
+C:\Users\iris\Documents\Repositorio_InOrientadaProceso\Ing_OrProces_Code\Ing_Or_Proceso\Web\MVC_Publicity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\iris\Documents\Repositorio_InOrientadaProceso\Ing_OrProces_Code\Ing_Or_Proceso\Web\MVC_Publicity\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\iris\Documents\Repositorio_InOrientadaProceso\Ing_OrProces_Code\Ing_Or_Proceso\Web\MVC_Publicity\bin\System.Web.Helpers.dll
+C:\Users\iris\Documents\Repositorio_InOrientadaProceso\Ing_OrProces_Code\Ing_Or_Proceso\Web\MVC_Publicity\bin\System.Web.Mvc.dll
+C:\Users\iris\Documents\Repositorio_InOrientadaProceso\Ing_OrProces_Code\Ing_Or_Proceso\Web\MVC_Publicity\bin\System.Web.Razor.dll
+C:\Users\iris\Documents\Repositorio_InOrientadaProceso\Ing_OrProces_Code\Ing_Or_Proceso\Web\MVC_Publicity\bin\System.Web.Webpages.Deployment.dll
+C:\Users\iris\Documents\Repositorio_InOrientadaProceso\Ing_OrProces_Code\Ing_Or_Proceso\Web\MVC_Publicity\bin\System.Web.Webpages.dll
+C:\Users\iris\Documents\Repositorio_InOrientadaProceso\Ing_OrProces_Code\Ing_Or_Proceso\Web\MVC_Publicity\bin\System.Web.Webpages.Razor.dll
+C:\Users\iris\Documents\Repositorio_InOrientadaProceso\Ing_OrProces_Code\Ing_Or_Proceso\Web\MVC_Publicity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\iris\Documents\Repositorio_InOrientadaProceso\Ing_OrProces_Code\Ing_Or_Proceso\Web\MVC_Publicity\bin\System.Web.Razor.xml
+C:\Users\iris\Documents\Repositorio_InOrientadaProceso\Ing_OrProces_Code\Ing_Or_Proceso\Web\MVC_Publicity\bin\System.Web.Webpages.xml
+C:\Users\iris\Documents\Repositorio_InOrientadaProceso\Ing_OrProces_Code\Ing_Or_Proceso\Web\MVC_Publicity\bin\System.Web.Webpages.Deployment.xml
+C:\Users\iris\Documents\Repositorio_InOrientadaProceso\Ing_OrProces_Code\Ing_Or_Proceso\Web\MVC_Publicity\bin\System.Web.Webpages.Razor.xml
+C:\Users\iris\Documents\Repositorio_InOrientadaProceso\Ing_OrProces_Code\Ing_Or_Proceso\Web\MVC_Publicity\bin\System.Web.Helpers.xml
+C:\Users\iris\Documents\Repositorio_InOrientadaProceso\Ing_OrProces_Code\Ing_Or_Proceso\Web\MVC_Publicity\bin\System.Web.Mvc.xml
+C:\Users\iris\Documents\Repositorio_InOrientadaProceso\Ing_OrProces_Code\Ing_Or_Proceso\Web\MVC_Publicity\bin\es\System.Web.Razor.resources.dll
+C:\Users\iris\Documents\Repositorio_InOrientadaProceso\Ing_OrProces_Code\Ing_Or_Proceso\Web\MVC_Publicity\bin\es\System.Web.Webpages.resources.dll
+C:\Users\iris\Documents\Repositorio_InOrientadaProceso\Ing_OrProces_Code\Ing_Or_Proceso\Web\MVC_Publicity\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\iris\Documents\Repositorio_InOrientadaProceso\Ing_OrProces_Code\Ing_Or_Proceso\Web\MVC_Publicity\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\iris\Documents\Repositorio_InOrientadaProceso\Ing_OrProces_Code\Ing_Or_Proceso\Web\MVC_Publicity\bin\es\System.Web.Helpers.resources.dll
+C:\Users\iris\Documents\Repositorio_InOrientadaProceso\Ing_OrProces_Code\Ing_Or_Proceso\Web\MVC_Publicity\bin\es\System.Web.Mvc.resources.dll
+C:\Users\iris\Documents\Repositorio_InOrientadaProceso\Ing_OrProces_Code\Ing_Or_Proceso\Web\MVC_Publicity\obj\Debug\MVC_Publicity.csprojResolveAssemblyReference.cache
+C:\Users\iris\Documents\Repositorio_InOrientadaProceso\Ing_OrProces_Code\Ing_Or_Proceso\Web\MVC_Publicity\obj\Debug\MVC_Publicity.dll
+C:\Users\iris\Documents\Repositorio_InOrientadaProceso\Ing_OrProces_Code\Ing_Or_Proceso\Web\MVC_Publicity\obj\Debug\MVC_Publicity.pdb
